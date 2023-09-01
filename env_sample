@@ -1,0 +1,5 @@
+PORT=5000
+CLIENT_ID=1080279258567-v685ithqk56kmk0rft72070lnn3sg1ve.apps.googleusercontent.com
+CLIENT_SECRET=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
+REDIRECT_URI=http://localhost:5000/callback
+
